@@ -7,7 +7,7 @@ namespace BethanysPieShop.Controllers
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Mvc;
     using BethanysPieShop.Models;
-    using WebShop.Repositories;
+    using BethanysPieShop.Repositories;
 
     public class PieController : Controller
     {

@@ -1,4 +1,4 @@
-﻿namespace WebShop.Models
+﻿namespace BethanysPieShop.Models
 {
     //Libraries
     using System;

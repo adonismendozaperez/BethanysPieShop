@@ -1,8 +1,8 @@
-﻿namespace WebShop.Repositories
+﻿namespace BethanysPieShop.Repositories
 {
     //Libraries
     using System.Collections.Generic;
-    using WebShop.Models;
+    using BethanysPieShop.Models;
 
     public class MockCategoryRepository : ICategoryRepository
     {
